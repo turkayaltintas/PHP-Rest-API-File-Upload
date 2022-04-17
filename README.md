@@ -4,3 +4,18 @@
 
 
 Database Class : **[ ThingEngineer / PHP-MySQLi-Database-Class](https://github.com/ThingEngineer/PHP-MySQLi-Database-Class)**  
+
+
+
+## Upload Image
+###### /api/file/upload.php
+```
+    sendimage  : 
+```
+
+
+## Download Image
+###### /api/file/download.php
+```
+    id  : 
+```
